@@ -19,4 +19,4 @@ Screenshot Gallery
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag FART.crx into the page that appears.
