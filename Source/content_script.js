@@ -39,10 +39,19 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bThe Cloud\b/g, "My Butt");
-	v = v.replace(/\bThe cloud\b/g, "My butt");
-	v = v.replace(/\bthe Cloud\b/g, "my Butt");
-	v = v.replace(/\bthe cloud\b/g, "my butt");
+	v = v.replace(/\bAI\b/g, "wet fart");
+	v = v.replace(/\bArtificial Intelligence\b/g, "Wet Fart");
+	v = v.replace(/\bartificial intelligence\b/g, "wet fart");
+	v = v.replace(/\bArtificial intelligence\b/g, "Wet fart");
+	v = v.replace(/\bartificial Intelligence\b/g, "wet Fart");
+	v = v.replace(/\bMachine Learning\b/g, "Wet Fart");
+	v = v.replace(/\bMachine learning\b/g, "Wet fart");
+	v = v.replace(/\bmachine Learning\b/g, "wet Fart");
+	v = v.replace(/\bmachine learning\b/g, "wet fart");
+	v = v.replace(/\bNeural Network\b/g, "Wet Fart");
+	v = v.replace(/\bNeural network\b/g, "Wet fart");
+	v = v.replace(/\bneural Network\b/g, "wet Fart");
+	v = v.replace(/\bneural network\b/g, "wet fart");
 	
 	textNode.nodeValue = v;
 }
