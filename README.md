@@ -14,6 +14,7 @@ polarizing issue in the cloud-to-butt user community.  Forks are free to do what
 Screenshot Gallery
 ------------------
 
+![](Screenshot 2025-06-18 at 3.02.06 PM.png)
 
 Installation
 ------------
