@@ -1,8 +1,8 @@
 {
 	"manifest_version": 3,
-	"name": "AI to fart",
+	"name": "how to fix the internet",
 	"version": "1.0",
-	"description": "Replaces the text 'artificial intelligence' with 'wet fart'.",
+	"description": "Replaces the text 'security' with 'insecurity'.",
 	"content_scripts": 
 	[
 		{
