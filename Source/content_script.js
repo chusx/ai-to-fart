@@ -41,8 +41,8 @@ function handleText(textNode)
 
 	v = v.replace(/\bcrypto\b/g, "funny numbers (maybe)");
 	v = v.replace(/\bCrypto\b/g, "Funny numbers (maybe)");
-	v = v.replace(/\bcryptography\b/g, "funny numbers (cool)");
-	v = v.replace(/\bCryptography\b/g, "Funny numbers (cool)");
+	v = v.replace(/\bcryptography\b/g, "funny numbers (cool!)");
+	v = v.replace(/\bCryptography\b/g, "Funny numbers (cool!)");
 	v = v.replace(/\bcryptocurrency\b/g, "funny numbers (lame)");
 	v = v.replace(/\bCryptocurrency\b/g, "Funny numbers (lame)");
 	
