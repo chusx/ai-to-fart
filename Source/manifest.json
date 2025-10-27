@@ -1,8 +1,8 @@
 {
 	"manifest_version": 3,
-	"name": "how to fix the internet",
+	"name": "how to fix the internet like for real this time",
 	"version": "1.0",
-	"description": "Replaces the text 'security' with 'insecurity'.",
+	"description": "Replaces the text 'crypto' with 'funny numbers'.",
 	"content_scripts": 
 	[
 		{
