@@ -40,10 +40,14 @@ function handleText(textNode)
 	var v = textNode.nodeValue;
 
 	v = v.replace(/\bAI\b/g, "wet fart");
+	v = v.replace(/\bAGI\b/g, "extra wet fart");
 	v = v.replace(/\bArtificial Intelligence\b/g, "Wet Fart");
 	v = v.replace(/\bartificial intelligence\b/g, "wet fart");
 	v = v.replace(/\bArtificial intelligence\b/g, "Wet fart");
 	v = v.replace(/\bartificial Intelligence\b/g, "wet Fart");
+	v = v.replace(/\bArtificial General Intelligence\b/g, "Extra Wet Fart");
+	v = v.replace(/\bartificial general intelligence\b/g, "extra wet fart");
+	v = v.replace(/\bArtificial general intelligence\b/g, "Extra wet fart");
 	v = v.replace(/\bMachine Learning\b/g, "Wet Fart");
 	v = v.replace(/\bMachine learning\b/g, "Wet fart");
 	v = v.replace(/\bmachine Learning\b/g, "wet Fart");
